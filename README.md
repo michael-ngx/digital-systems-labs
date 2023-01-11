@@ -1,3 +1,5 @@
-Verilog HDL lab assignments for ECE241 course, University of Toronto.
+## Verilog HDL on DE1-SoC
+
+Lab assignments for ECE241 course, University of Toronto.
 
 Course Description: https://engineering.calendar.utoronto.ca/course/ece241h1

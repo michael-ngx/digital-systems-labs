@@ -1,4 +1,4 @@
-## Verilog HDL on DE1-SoC
+## Verilog on DE1-SoC
 
 Lab assignments for ECE241 course, University of Toronto.
 
